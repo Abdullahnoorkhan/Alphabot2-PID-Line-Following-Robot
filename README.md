@@ -49,8 +49,6 @@ The Waveshare AlphaBot2 AR is a robotic development platform featuring dual DC m
 
 ![AlphaBot2 Line-Following Robot](images/Robot.jpeg)
 
-Add the image and video files to the respective `images/` and `videos/` folders in the repository for proper rendering on GitHub.
-
 ## How It Works
 
 ### Sensor Calibration
