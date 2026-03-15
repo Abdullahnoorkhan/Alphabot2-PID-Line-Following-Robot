@@ -1,3 +1,5 @@
+# Line-Following Robot for Waveshare AlphaBot2 AR
+
 ## Overview
 
 This project implements an autonomous line-following robot on the Waveshare AlphaBot2 AR platform. The robot uses five infrared sensors to detect a black line on a white surface and employs a PID controller to maintain precise center alignment while navigating the track. The system includes motor control, real-time feedback via OLED display, RGB LED indicators, and comprehensive debugging output.
