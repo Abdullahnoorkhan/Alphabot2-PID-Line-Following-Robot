@@ -38,19 +38,19 @@ The Waveshare AlphaBot2 AR is a robotic development platform featuring dual DC m
 
 ### Video 1: Easy Track (Continuous Line)
 
-[Watch Easy Track Demonstration](videos/easy-track.mp4)
+[Watch Easy Track Demonstration](videos/Simple_Track.mp4)
 
 (Replace with video file showing stable, deviation-free navigation on the simple track.)
 
 ### Video 2: Advanced Track (With Gaps)
 
-[Watch Advanced Track Demonstration](videos/advanced-track.mp4)
+[Watch Advanced Track Demonstration](videos/Difficult_track.mp4)
 
 (Replace with video file showing successful gap crossing and continued line following.)
 
 ### Project Picture
 
-![AlphaBot2 Line-Following Robot](images/robot.jpg)
+![AlphaBot2 Line-Following Robot](images/Robot.jpeg)
 
 Add the image and video files to the respective `images/` and `videos/` folders in the repository for proper rendering on GitHub.
 
