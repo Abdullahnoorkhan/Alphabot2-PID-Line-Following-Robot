@@ -34,19 +34,16 @@ The Waveshare AlphaBot2 AR is a robotic development platform featuring dual DC m
   - Wire for I2C communication with the PCF8574 I/O expander (button and beeper interface)
 - Hardware components: Waveshare AlphaBot2 AR chassis (motors, five infrared sensors, OLED, NeoPixels)
 
-## Demonstration
+## Demonstration:
 
 ### Video 1: Easy Track (Continuous Line)
 
-[Watch Easy Track Demonstration](videos/Simple_Track.mp4)
-
-(Replace with video file showing stable, deviation-free navigation on the simple track.)
+[![Watch the full demonstration on YouTube](https://img.youtube.com/vi/YcBl3nvdvCc/maxresdefault.jpg)](https://youtube.com/shorts/YcBl3nvdvCc?feature=share)
 
 ### Video 2: Advanced Track (With Gaps)
 
-[Watch Advanced Track Demonstration](videos/Difficult_track.mp4)
+[![Watch the full demonstration on YouTube](https://img.youtube.com/vi/3YrJATeAfHo/maxresdefault.jpg)](https://youtu.be/3YrJATeAfHo)
 
-(Replace with video file showing successful gap crossing and continued line following.)
 
 ### Project Picture
 
