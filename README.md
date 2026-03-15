@@ -42,7 +42,7 @@ The Waveshare AlphaBot2 AR is a robotic development platform featuring dual DC m
 
 ### Video 2: Advanced Track (With Gaps)
 
-[![Watch the full demonstration on YouTube](https://img.youtube.com/vi/3YrJATeAfHo/maxresdefault.jpg)](https://youtu.be/3YrJATeAfHo)
+[![Watch the full demonstration on YouTube](https://img.youtube.com/vi/O9gathEkwZk/maxresdefault.jpg)](https://youtube.com/shorts/O9gathEkwZk?feature=share)
 
 
 ### Project Picture
