@@ -26,7 +26,7 @@ The Waveshare AlphaBot2 AR is a robotic development platform featuring dual DC m
 ## Technologies Used
 
 - Programming environment: Arduino IDE with C.
-- Microcontroller platform: Arduino-compatible board integrated with AlphaBot2 AR
+- Microcontroller platform: Arduino UNO board integrated with AlphaBot2 AR
 - Core libraries:
   - TRSensors for infrared line sensor reading, calibration, and position calculation
   - Adafruit_NeoPixel for RGB LED control
